@@ -12,18 +12,18 @@ const Banner = () => {
 			position="relative"
 			p="20px"
 		>
-			<Typography color="#ff2625" fontweight="600" fontsize="26px">
+			<Typography color="#ff2625" fontWeight="600" fontSize="26px">
 				Fitness Club
 			</Typography>
 			<Typography
-				fontweight="700"
-				sx={{ fontsize: { lg: '44px', xs: '40px' } }}
+				fontWeight="700"
+				sx={{ fontSize: { lg: '44px', xs: '40px' } }}
 				mb="23px"
 				mt="30px"
 			>
 				Sweat, Smile <br /> and Repeat
 			</Typography>
-			<Typography fontsize="22px" lineHeight="35px" mb={4}>
+			<Typography fontSize="22px" lineHeight="35px" mb={4}>
 				Checkout these effective exercises!
 			</Typography>
 			<Button
